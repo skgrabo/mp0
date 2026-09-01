@@ -1,1 +1,20 @@
 /* Your CSS here. */
+.content {
+    background-color: rgb(255, 179, 189);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    color: #004f0a;
+    padding: 20px;
+}
+
+.img {
+    width: 150px;
+    height: 150px;
+}
