@@ -14,6 +14,11 @@
     padding: 20px;
 }
 
+.h1, .p {
+    font-family: 'Arial', sans-serif;
+    color: #004f0a;
+}
+
 .img {
     width: 150px;
     height: 150px;
