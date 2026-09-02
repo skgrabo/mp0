@@ -1,5 +1,5 @@
 /* Your CSS here. */
-.content {
+/* .content {
     background-color: rgb(255, 179, 189);
     display: flex;
     flex-direction: column;
@@ -12,13 +12,7 @@
     margin-bottom: 10%;
     color: #004f0a;
     padding: 20px;
-}
-
-.h1, .p {
-    font-family: 'Arial', sans-serif;
-    color: #004f0a;
-}
-
+} */
 .img {
     width: 150px;
     height: 150px;
