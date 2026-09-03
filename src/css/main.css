@@ -1,6 +1,6 @@
 /* Your CSS here. */
 .mycontent {
-    /* background-color: rgb(255, 179, 189);
+    background-color: rgb(255, 179, 189);
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -9,11 +9,11 @@
     margin-left: 10%;
     margin-right: 10%;
     margin-top: 10%;
-    margin-bottom: 10%; */
+    margin-bottom: 10%;
     color: #004f0a;
-    /* padding: 20px; */
+    padding: 20px;
 }
-/* .img {
+.img, img {
     width: 150px;
     height: 150px;
-} */
+}
