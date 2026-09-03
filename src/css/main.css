@@ -1,4 +1,8 @@
 /* Your CSS here. */
+body {
+    color: #004f0a;
+}
+
 .mycontent {
     background-color: rgb(255, 179, 189);
     display: flex;
@@ -10,10 +14,10 @@
     margin-right: 10%;
     margin-top: 10%;
     margin-bottom: 10%;
-    color: #004f0a;
     padding: 20px;
 }
-.img, img {
+
+img {
     width: 150px;
     height: 150px;
 }
